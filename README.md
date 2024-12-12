@@ -13,8 +13,6 @@ Developed a machine learning model to predict airline passenger satisfaction usi
 - `notebook/airline_satisfaction_prediction.ipynb`: Main Jupyter Notebook
 - `requirements.txt`: Project dependencies
 
-## Installation
-
 ### Prerequisites
 - Python 3.8+
 - pip
